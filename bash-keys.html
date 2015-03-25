@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<title>Regularly useful bash keys</title>
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="">
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="">
+</head>
+<body>
+
+<h1>Regularly useful bash keys</h1>
+<p>I use M-x to mean "press alt and x together", C-x to mean "press ctrl and x together" and M-C-x to mean "press ctrl, alt and x together".</p>
+<ul>
+    <li>Of course the arrow keys are probably most frequently used. Up/Down move through the history. Left/Right move along the current line. Home/End also move on the current line, but on some terminals they just don't work: Use C-a and C-e instead.</li>
+    <li>C-left and C-right go back and forwards by words. On some terminals this just doesn't work: M-b and M-f go back and forwards by one word.</li>
+    <li>Enter executes the current line. C-xC-e opens the current line in an editor and runs it when you quit.</li>
+    <li>C-o is "operate and get next". It runs the current line and fetches the next one in the history. Apparently undocumented feature: Once it reaches the end of the history, it goes back to where you started. Really handy for "vim; make; run" loops.</li>
+    <li>M-. inserts the last word from the previous line. This is probably my favourite. Really useful for "mkdir long_name; cd M-." and similar.</li>
+    <li>M-<i>n</i> M-. inserts the <i>n</i>th argument from the previous line.</li>
+    <li>M-# makes this line a comment and starts a new line for you. Handy for brief reminders which stay in your history.</li>
+    <li>TAB expands words. M-C-e expands the whole line as bash would do before executing it.</li>
+    <li>C-x * expands everything matching the current word. E.g. ls /proc/self/fdC-x * &rarr; ls /proc/self/fd /proc/self/fdinfo. TAB TAB shows you what it would do.</li>
+    <li>M-Backspace kills the word before the cursor. C-y yanks the word from the top of the kill ring.</li>
+    <li>C-w and A-d kill the word before and after the cursor, respectively.</li>
+    <li>C-r incrementally searches backwards in your history. Ok, this one is my favourite.</li>
+    <li>C-d (or whatever EOF is) &rarr; Quit!</li>
+    <li>If you can't use Alt for some reason (window managers often grab certain keys), just press ESC. M-x === ESC x.</li>
+</ul>
+<p>and of course you are all using bash-completion! Write completion scripts for your own programs and deliver them to /etc/completion.d.</p>
+
+</body>
+</html>
