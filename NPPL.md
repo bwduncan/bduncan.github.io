@@ -1,3 +1,7 @@
+---
+title: NPPL learning points
+---
+
 # NPPL learning points
 
 I have recently completed [NPPL](http://www.nationalprivatepilotslicence.co.uk/)(SLMG) training and paperwork shuffling. I used the cross-crediting arrangement using my gliding experience. I got caught out by a few things in the paperwork exercise which might catch others, so I'm making a note of them here. I'm also noting down other aspects of my experience, in case it's useful to others.
