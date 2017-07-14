@@ -4,7 +4,7 @@ title: NPPL learning points
 
 # NPPL learning points
 
-I have recently completed [NPPL](http://www.nationalprivatepilotslicence.co.uk/)(SLMG) training and paperwork shuffling. I used the cross-crediting arrangement using my gliding experience. I got caught out by a few things in the paperwork exercise which might catch others, so I'm making a note of them here. I'm also noting down other aspects of my experience, in case it's useful to others.
+I have recently completed [NPPL](http://www.nationalprivatepilotslicence.co.uk/)(SLMG) training and paperwork shuffling. I used the [cross-crediting arrangement](http://www.nationalprivatepilotslicence.co.uk/NPPL%20XC%20REV%2011.pdf) using my gliding experience. I got caught out by a few things in the paperwork exercise which might catch others, so I'm making a note of them here. I'm also noting down other aspects of my experience, in case it's useful to others.
 
 ## Bureaucracy 
 * Make sure you get the signatures for the things you achieve as soon as you finish them. This caught me out twice because when I got round to getting the stuff signed I messed up the year, so it looked like I completed the theory test after the GST, which is a big no-no. Also if your instructor/examiner leaves/dies/forgets you're stuffed.
