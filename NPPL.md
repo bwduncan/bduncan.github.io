@@ -15,6 +15,8 @@ Once I had corrected these things, the LAA were happy to accept my application b
 
 I can't fault the LAA. They followed the rules and were extremely helpful in helping me to complete the application.
 
+*Update:* I've since tried to send an NPPL(SSEA) application to the LAA and they advised me over the phone that they would definitely **not** accept an application by email, even to add a rating. Your mileage may vary.
+
 ## The flying and learning
 
 I learned to fly in a Scheibe SF-25C Falke at Portmoak in Scotland. There are motorglider instructors on site but no examiners. The closest examiner is in England, so for now it's impossible to get the NPPL(SLMG) in Scotland unless you can convince an examiner to travel north! I ended up doing the theory tests at Portmoak and then flying to Milfield for the skills tests. Flying to another site was great fun (I had to take a friend with me to act as PIC) but the round-trip interspersed with the actual tests was really tiring.
